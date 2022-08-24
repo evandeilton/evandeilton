@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Jose E. Lopes</h1>
-<h3 align="center">I am a statistician with experience in development and monitoring of credit and fraud risk models, time series forecasting, anomaly detection, passionate on data analytics and R programming language. Interested in machine learning and big data.</h3>
+<h1 align="center">Olá, sou Jose E. Lopes</h1>
+<h3 align="center">Sou estatístico pela UFPR e mestrando no PPGMNE; Amante da linguagem R; Fissurado em estatística, limpeza análise de dados e descoberta de conhecimento com dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evandeilton&label=Profile%20views&color=0e75b6&style=flat" alt="evandeilton" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evandeilton" alt="evandeilton" /></a> </p>
 
-- 🌱 I’m currently learning **Master's degree in 'Métodos Numéricos em Engenharia (PPGMNE)'**
-- 🔭 I’m currently working on [rnpextras](https://github.com/evandeilton/rnpextras)
-- 👨‍💻 All of my projects are available at [https://github.com/evandeilton](https://github.com/evandeilton)
-- 💬 Ask me about **R programming and Statistics**
-- 📫 How to reach me **evandeilton@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/evandeilton/](https://www.linkedin.com/in/evandeilton/)
-- ⚡ Fun fact **It really hwips llhamas ass**
+- 🌱 Academia **Cursando mestrado em Métodos Numéricos em Engenharia (PPGMNE/UFPR)**
+- 🔭 Trabalhando no pacote [rnpextras](https://github.com/evandeilton/rnpextras)
+- 👨‍💻 Meus projetos em R [https://github.com/evandeilton](https://github.com/evandeilton)
+- 💬 Me pergunte sobre **R, estatística, análise de dados e café**
+- 📄 Histórico profissional [https://www.linkedin.com/in/evandeilton/](https://www.linkedin.com/in/evandeilton/)
+- ⚡ Rio de coisas bobas **It really hwips llhamas ass**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Tenho impressoes em:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evandeilton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evandeilton" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/r na prática" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r na prática" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languagens e ferramentas que ando fuçando:</h3>
 <p align="left">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg " alt="R" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
