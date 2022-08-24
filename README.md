@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Jose E. Lopes</h1>
-<h3 align="center">Sou estatístico pela UFPR e mestrando no PPGMNE; Amante da linguagem R; Fissurado em estatística, limpeza análise de dados e descoberta de conhecimento com dados.</h3>
+<h3 align="center">Sou estatístico pela UFPR e mestrando no PPGMNE; Amante da linguagem R; Fissurado em estatística, Limpeza e análise de dados; Descoberta de conhecimento com dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evandeilton&label=Profile%20views&color=0e75b6&style=flat" alt="evandeilton" /> </p>
 
