@@ -12,7 +12,7 @@
 - 📄 Histórico profissional: [https://www.linkedin.com/in/evandeilton/](https://www.linkedin.com/in/evandeilton/)
 - ⚡ Rio de coisas bobas: **It really hwips llhamas ass**
 
-<h3 align="left">Tenho impressoes em:</h3>
+<h3 align="left">Mais sobre mim:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evandeilton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evandeilton" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/r na prática" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r na prática" height="30" width="40" /></a>
