@@ -15,7 +15,7 @@
 <h3 align="left">Mais sobre mim:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evandeilton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evandeilton" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/r na prática" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r na prática" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbHEkQY0BHvc89wSxv6k6yg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r na prática" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languagens e ferramentas que ando fuçando:</h3>
