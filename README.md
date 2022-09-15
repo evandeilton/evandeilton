@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evandeilton&label=Profile%20views&color=0e75b6&style=flat" alt="evandeilton" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evandeilton" alt="evandeilton" /></a> </p>
 
 - 🌱 Academia: [**Cursando mestrado em Métodos Numéricos em Engenharia (PPGMNE/UFPR)**](http://www.prppg.ufpr.br/site/ppgmne/)
 - 🔭 Trabalhando em: [rnpextras](https://github.com/evandeilton/rnpextras)
