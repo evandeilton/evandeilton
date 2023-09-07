@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evandeilton" alt="evandeilton" /></a> </p>
 
-- 🌱 Academia: [**Cursando mestrado em Métodos Numéricos em Engenharia (PPGMNE/UFPR)**](http://www.prppg.ufpr.br/site/ppgmne/)
+- 🌱 Academia: [**Mestre em Estatística pelo Programa de Pós Graduação em Métodos Numéricos em Engenharia (PPGMNE/UFPR)**](http://www.prppg.ufpr.br/site/ppgmne/)
 - 🔭 Trabalhando em: [rnpextras](https://github.com/evandeilton/rnpextras)
 - 👨‍💻 Mais projetos: [https://github.com/evandeilton](https://github.com/evandeilton)
 - 💬 Me pergunte sobre: **R, estatística, análise de dados e café**
 - 📄 Histórico profissional: [https://www.linkedin.com/in/evandeilton/](https://www.linkedin.com/in/evandeilton/)
-- ⚡ Rio de coisas bobas: **It really hwips llhamas ass**
+- ⚡ Dou risadas de coisas bobas: **It really hwips llhamas ass**
 
 <h3 align="left">Mais sobre mim:</h3>
 <p align="left">
