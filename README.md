@@ -1,12 +1,12 @@
 <h1 align="center">Olá</h1>
-<h3 align="center">Mestre em Estatística pelo PPGMNE/UFPR; Amante da linguagem R; Fissurado em Estatística; Limpeza e análise de dados; Descoberta de conhecimento com dados.</h3>
+<h3 align="center">Doutorando em Estatística pelo PPGMNE/UFPR; Amante da linguagem R; Fissurado em Estatística, limpeza e análise de dados; Descoberta de conhecimento com dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evandeilton&label=Profile%20views&color=0e75b6&style=flat" alt="evandeilton" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evandeilton" alt="evandeilton" /></a> </p>
 
-- 🌱 Academia: [**Mestre em Estatística pelo Programa de Pós Graduação em Métodos Numéricos em Engenharia (PPGMNE/UFPR)**](http://www.prppg.ufpr.br/site/ppgmne/)
-- 🔭 Trabalhando em: [rnpextras](https://github.com/evandeilton/rnpextras)
+- 🌱 Academia: [**Doutorando em Estatística pelo Programa de Pós Graduação em Métodos Numéricos em Engenharia (PPGMNE/UFPR)**](http://www.prppg.ufpr.br/site/ppgmne/)
+- 🔭 Trabalhando em: [rnpextras](https://github.com/evandeilton/OptimalBinningWoE)
 - 👨‍💻 Mais projetos: [https://github.com/evandeilton](https://github.com/evandeilton)
 - 💬 Me pergunte sobre: **R, estatística, análise de dados e café**
 - 📄 Histórico profissional: [https://www.linkedin.com/in/evandeilton/](https://www.linkedin.com/in/evandeilton/)
