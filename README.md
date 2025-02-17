@@ -12,7 +12,8 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=evandeilton" alt="evandeilton" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=evandeilton" alt="evandeilton" /> -->
+    <img src="https://github-profile-trophy.vercel.app/?username=evandeilton&row=2&column=3" alt="evandeilton" />
   </a>
 </p>
 
@@ -46,7 +47,7 @@
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-<!--   </a>
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
@@ -58,7 +59,7 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a> -->
+  </a>
 </p>
 
 <p>
