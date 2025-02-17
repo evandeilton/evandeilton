@@ -17,7 +17,7 @@
 </p>
 
 - 🌱 **Academia:** [Doutorando em Estatística pelo PPGMNE/UFPR](http://www.prppg.ufpr.br/site/ppgmne/)
-- 🔭 **Projeto em destaque:** [rnpextras (OptimalBinningWoE)](https://github.com/evandeilton/OptimalBinningWoE)
+- 🔭 **Projeto em destaque:** [OptimalBinningWoE](https://github.com/evandeilton/OptimalBinningWoE)
 - 👨‍💻 **Mais projetos:** [GitHub](https://github.com/evandeilton)
 - 💬 **Pergunte-me sobre:** R, estatística, análise de dados e, claro, café!
 - 📄 **Histórico profissional:** [LinkedIn](https://www.linkedin.com/in/evandeilton/)
