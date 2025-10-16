@@ -28,7 +28,7 @@
 
 <div align="center">
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=evandeilton&theme=nord&column=8&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />  
 </div>
 
 ---
