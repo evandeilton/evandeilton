@@ -2,7 +2,7 @@
   
 # José Evandeilton Lopes
 
-### 🎓 PhD Candidate in Statistics | 📊 Big Data Analytics | 🏦 FinTech Solutions | 💳 Risk Modeling
+### PhD Candidate in Statistics | Big Data Analytics | FinTech Solutions | Risk Modeling
 
 [![Profile Views](https://komarev.com/ghpvc/?username=evandeilton&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/evandeilton)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandeilton/)
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍🔬 Short Bio
+## Short Bio
 
 <div align="justify">
   
@@ -24,16 +24,12 @@
 
 </div>
 
----
-
 <div align="center">
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=evandeilton&theme=nord&column=8&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" /> -->
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />  
 </div>
 
----
-
-## 🚀 Featured Open Source Projects
+## Featured Open Source Projects
 
 <div align="center">
 <table>
@@ -78,26 +74,23 @@
 </table>
 </div>
 
----
-<div align="center">
+<div align="left">
   
-## 🎯 Core Competencies
+## Core Competencies
 
-### 📊 Data Science & Machine Learning
+### Data Science & Machine Learning
 `Statistical Modeling` `Predictive Analytics` `Machine Learning` `Time Series Forecasting` `A/B Testing` `Causal Inference` `Ensemble Methods` `XGBoost` `LightGBM` `Neural Networks`
 
-### 💳 Credit Risk & Fraud Analytics
+### Credit Risk & Fraud Analytics
 `Credit Scoring` `PD/LGD/EAD Modeling` `Fraud Detection` `Anti-Money Laundering` `Behavioral Scoring` `Collection Scoring` `Portfolio Analytics` `Stress Testing`
 
-### 🔧 Technical Stack
+### Technical Stack
 `R (Advanced)` `Python (Advanced)` `SQL (Advanced)` `PySpark` `Julia` `C++` `TMB` `Databricks` `Git`
 
-### 📈 Statistical Methods
+### Statistical Methods
 `Bayesian Statistics` `GLM/GAM/GLMM` `Survival Analysis` `Multivariate Analysis` `Spatial Statistics` `Bootstrap` `MCMC` `Maximum Likelihood` `EM Algorithm`
 
----
-
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Programming & Analytics
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -123,9 +116,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
----
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evandeilton&theme=tokyonight" alt="Streak Stats" />
@@ -142,9 +134,8 @@
 
 </div>
 
----
 
-## 🎓 Academic Background
+## Academic Background
 
 - **Ph.D. in Statistics** (In Progress) - PPGMNE/UFPR
   - Research: Statistical Inference and Bayesian Networks
@@ -152,9 +143,8 @@
   
 - **M.Sc. in Statistics** - PPGMNE/UFPR
   - Thesis: [Beta regression models for scaled data (Modelos de regressão beta para dados de escala)](https://hdl.handle.net/1884/86624)
----
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -164,18 +154,17 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandeilton@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=tZWYDwcAAAAJ&hl=pt-BR)
 
-### 💬 Areas of Interest for Collaboration
+### Areas of Interest for Collaboration
 **Research:** Bayesian Networks | Causal Inference | MAchine Learning for Finance  
 **Industry:** Credit Risk Models | Fraud Detection Models | Real-time Scoring  
 **Open Source:** R Packages | Statistical Libraries | ML Frameworks
 
 </div>
 
----
 
 <div align="center">
   
-### 📌 Fun Facts
+### Fun Facts
 ```r
 personal_attributes <- list(
   coffee_level = "Infinite ☕",
