@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## Short Bio
 
 <div align="justify">
@@ -24,51 +22,59 @@
 
 </div>
 
-<div align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=evandeilton&theme=nord&column=8&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />  
-</div>
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=evandeilton&theme=discord&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />  
+</div> -->
 
 ## Featured Open Source Projects
 
 <div align="center">
-<table>
+<table border="0" width="100%">
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/evandeilton/gkwreg">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=evandeilton&repo=gkwreg&theme=tokyonight" />
+        <img src="https://img.shields.io/badge/R-gkwreg-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       </a>
       <br />
-      <strong>gkwreg</strong>
       <br />
-      <!-- <sub>Generalized Kumaraswamy Regression Models for Bounded Data</sub>
-      <br /> -->
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-      <img src="https://img.shields.io/badge/Statistics-FF6F61?style=flat-square" />
+      <strong>Generalized Kumaraswamy Regression</strong>
+      <br />
+      <sub>Regression Models for Bounded Data</sub>
+      <br />
+      <br />
+      <a href="https://github.com/evandeilton/gkwreg">
+        <img src="https://img.shields.io/github/stars/evandeilton/gkwreg?style=social" alt="Stars" />
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/evandeilton/gkwdist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=evandeilton&repo=gkwdist&theme=tokyonight" />
+        <img src="https://img.shields.io/badge/R-gkwdist-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       </a>
       <br />
-      <strong>gkwdist</strong>
       <br />
-      <!-- <sub>Generalized Kumaraswamy Distribution Family</sub>
-      <br /> -->
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-      <img src="https://img.shields.io/badge/ML-4CAF50?style=flat-square" />
+      <strong>Generalized Kumaraswamy Dist.</strong>
+      <br />
+      <sub>Distribution Family for Bounded Data</sub>
+      <br />
+      <br />
+      <a href="https://github.com/evandeilton/gkwdist">
+        <img src="https://img.shields.io/github/stars/evandeilton/gkwdist?style=social" alt="Stars" />
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/evandeilton/OptimalBinningWoE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=evandeilton&repo=OptimalBinningWoE&theme=tokyonight" />
+        <img src="https://img.shields.io/badge/R-OptimalBinningWoE-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       </a>
+      <br />
       <br />
       <strong>OptimalBinningWoE</strong>
       <br />
-      <!-- <sub>Credit Risk Scoring & WoE Analysis</sub>
-      <br /> -->
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-      <img src="https://img.shields.io/badge/FinTech-2196F3?style=flat-square" />
+      <sub>Credit Risk Scoring & WoE Analysis</sub>
+      <br />
+      <br />
+      <a href="https://github.com/evandeilton/OptimalBinningWoE">
+        <img src="https://img.shields.io/github/stars/evandeilton/OptimalBinningWoE?style=social" alt="Stars" />
+      </a>
     </td>
   </tr>
 </table>
@@ -116,24 +122,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evandeilton&theme=tokyonight" alt="Streak Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandeilton&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandeilton&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandeilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-<!-- <div align="center">    
-</div> -->
-
-</div>
-
 
 ## Academic Background
 
@@ -155,12 +144,11 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=tZWYDwcAAAAJ&hl=pt-BR)
 
 ### Areas of Interest for Collaboration
-**Research:** Bayesian Networks | Causal Inference | MAchine Learning for Finance  
+**Research:** Bayesian Networks | Causal Inference | Machine Learning for Finance  
 **Industry:** Credit Risk Models | Fraud Detection Models | Real-time Scoring  
 **Open Source:** R Packages | Statistical Libraries | ML Frameworks
 
 </div>
-
 
 <div align="center">
   
@@ -170,16 +158,16 @@ personal_attributes <- list(
   coffee_level = "Infinite ☕",
   coding_hours = "24/7",
   favorite_distribution = "(gkw) Generalized Kumaraswamy Distribution",
-  life_motto = "In Data We Trust",
+  life_motto = "In God Trust",
   superpower = "Finding patterns in chaos",
   weakness = "Can't resist a good dataset"
 )
 ```
 
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24&fontAlignY=70&animation=twinkling" />
 </div>
+
+```
+
+```
