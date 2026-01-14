@@ -32,13 +32,13 @@
 <table border="0" width="100%">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/evandeilton/gkwreg">
+      <a href="https://CRAN.R-project.org/package=gkwreg">
         <img src="https://img.shields.io/badge/R-gkwreg-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       </a>
       <br />
-      <br />
+      <!-- <br />
       <strong>Generalized Kumaraswamy Regression</strong>
-      <br />
+      <br /> -->
       <sub>Regression Models for Bounded Data</sub>
       <br />
       <br />
@@ -47,13 +47,13 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/evandeilton/gkwdist">
+      <a href="https://CRAN.R-project.org/package=gkwdist">
         <img src="https://img.shields.io/badge/R-gkwdist-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       </a>
       <br />
-      <br />
+      <!-- <br />
       <strong>Generalized Kumaraswamy Dist.</strong>
-      <br />
+      <br /> -->
       <sub>Distribution Family for Bounded Data</sub>
       <br />
       <br />
@@ -66,9 +66,9 @@
         <img src="https://img.shields.io/badge/R-OptimalBinningWoE-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       </a>
       <br />
-      <br />
+      <!-- <br />
       <strong>OptimalBinningWoE</strong>
-      <br />
+      <br /> -->
       <sub>Credit Risk Scoring & WoE Analysis</sub>
       <br />
       <br />
