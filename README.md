@@ -153,6 +153,7 @@
 <div align="center">
   
 ### Fun Facts
+
 ```r
 personal_attributes <- list(
   coffee_level = "Infinite ☕",
@@ -164,10 +165,4 @@ personal_attributes <- list(
 )
 ```
 
----
-
 </div>
-
-```
-
-```
