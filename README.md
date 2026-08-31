@@ -1,169 +1,97 @@
 <div align="center">
-  
+
 # José Evandeilton Lopes
 
-### PhD Candidate in Statistics | Big Data Analytics | FinTech Solutions | Risk Modeling
+### Data Scientist @ Stix · PhD Candidate in Statistics (PPGMNE/UFPR) · Credit Risk & Fraud Analytics
 
 [![Profile Views](https://komarev.com/ghpvc/?username=evandeilton&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/evandeilton)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandeilton/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbHEkQY0BHvc89wSxv6k6yg)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandeilton)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5887-4084)
 
 </div>
 
-## Short Bio
+## About
 
-<div align="justify">
-  
-**Statistician and Data Scientist** with 10+ years of experience in **credit risk modeling**, **fraud detection**, and **big data analytics**. PhD candidate at PPGMNE/UFPR specializing in **statistical inference** and **machine learning** applications in financial services. Expert in developing **scoring models**, **Weight of Evidence (WoE)** methodologies, and **optimal binning algorithms** for risk assessment. Proficient in **R**, **Python**, **SQL**, and **PySpark** with proven track record in transforming complex data into actionable business insights.
+- **Data Science Specialist @ Stix**, leading Advanced Analytics: ~30 ML models in production, fraud detection in point redemption, and dashboards for a 16M-member loyalty ecosystem
+- **PhD Candidate in Statistics** (PPGMNE/UFPR, advisor [Wagner Hugo Bonat](https://orcid.org/0000-0002-0349-7054)), researching **MCGLM-Graph** — extending Multivariate Covariance GLMs with graphical-model representations of residual dependence (GGM & DAG layers)
+- 10+ years in credit risk & fraud modeling across **HSBC · Bradesco · ClearSale · Boa Vista SCPC**
+- Registered Statistician (CONFE)
 
-**Research Interests:** Bayesian Networks | Optimization | Computational Statistics | GLM/GAM | Time Series | Machine Learning | AI
+**Research interests:** Graphical Models · Bayesian Networks · Multivariate GLMs · Computational Statistics · Credit Risk & Fraud Modeling
 
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evandeilton&theme=discord&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />  
-</div> -->
-
-## Featured Open Source Projects
+## Open-Source Packages
 
 <div align="center">
 <table border="0" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <a href="https://CRAN.R-project.org/package=gkwreg">
-        <img src="https://img.shields.io/badge/R-gkwreg-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-      </a>
-      <br />
-      <!-- <br />
-      <strong>Generalized Kumaraswamy Regression</strong>
-      <br /> -->
-      <sub>Regression Models for Bounded Data</sub>
-      <br />
-      <br />
-      <a href="https://github.com/evandeilton/gkwreg">
-        <img src="https://img.shields.io/github/stars/evandeilton/gkwreg?style=social" alt="Stars" />
-      </a>
+    <td align="center" width="25%">
+      <a href="https://github.com/evandeilton/gkwreg"><img src="https://img.shields.io/badge/R-gkwreg-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a><br/>
+      <sub>Generalized Kumaraswamy regression for bounded (0,1) data</sub><br/><br/>
+      <a href="https://img.shields.io/cran/v/gkwreg"><img src="https://img.shields.io/cran/v/gkwreg?style=flat-square&color=276DC3" /></a>
+      <a href="https://github.com/evandeilton/gkwreg"><img src="https://img.shields.io/github/stars/evandeilton/gkwreg?style=social" /></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://CRAN.R-project.org/package=gkwdist">
-        <img src="https://img.shields.io/badge/R-gkwdist-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-      </a>
-      <br />
-      <!-- <br />
-      <strong>Generalized Kumaraswamy Dist.</strong>
-      <br /> -->
-      <sub>Distribution Family for Bounded Data</sub>
-      <br />
-      <br />
-      <a href="https://github.com/evandeilton/gkwdist">
-        <img src="https://img.shields.io/github/stars/evandeilton/gkwdist?style=social" alt="Stars" />
-      </a>
+    <td align="center" width="25%">
+      <a href="https://github.com/evandeilton/gkwdist"><img src="https://img.shields.io/badge/R-gkwdist-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a><br/>
+      <sub>Companion 7-family bounded distribution engine (C++/RcppArmadillo)</sub><br/><br/>
+      <a href="https://img.shields.io/cran/v/gkwdist"><img src="https://img.shields.io/cran/v/gkwdist?style=flat-square&color=276DC3" /></a>
+      <a href="https://github.com/evandeilton/gkwdist"><img src="https://img.shields.io/github/stars/evandeilton/gkwdist?style=social" /></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/evandeilton/OptimalBinningWoE">
-        <img src="https://img.shields.io/badge/R-OptimalBinningWoE-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-      </a>
-      <br />
-      <!-- <br />
-      <strong>OptimalBinningWoE</strong>
-      <br /> -->
-      <sub>Credit Risk Scoring & WoE Analysis</sub>
-      <br />
-      <br />
-      <a href="https://github.com/evandeilton/OptimalBinningWoE">
-        <img src="https://img.shields.io/github/stars/evandeilton/OptimalBinningWoE?style=social" alt="Stars" />
-      </a>
+    <td align="center" width="25%">
+      <a href="https://github.com/evandeilton/betaregscale"><img src="https://img.shields.io/badge/R-betaregscale-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a><br/>
+      <sub>Beta regression for interval-censored scale outcomes · with W. Bonat</sub><br/><br/>
+      <a href="https://img.shields.io/cran/v/betaregscale"><img src="https://img.shields.io/cran/v/betaregscale?style=flat-square&color=276DC3" /></a>
+      <a href="https://github.com/evandeilton/betaregscale"><img src="https://img.shields.io/github/stars/evandeilton/betaregscale?style=social" /></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/evandeilton/OptimalBinningWoE"><img src="https://img.shields.io/badge/R-OptimalBinningWoE-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a><br/>
+      <sub>High-performance optimal binning & WoE for credit scoring</sub><br/><br/>
+      <a href="https://github.com/evandeilton/OptimalBinningWoE"><img src="https://img.shields.io/github/stars/evandeilton/OptimalBinningWoE?style=social" /></a>
     </td>
   </tr>
 </table>
 </div>
 
-<div align="left">
-  
-## Core Competencies
+<sub>Also on GitHub: <a href="https://github.com/evandeilton/dscoder">dscoder</a> (AI code-generation agent for data science) · <a href="https://github.com/evandeilton/rnp">rnp</a> (teaching toolkit behind the <i>R na Prática</i> book)</sub>
 
-### Data Science & Machine Learning
-`Statistical Modeling` `Predictive Analytics` `Machine Learning` `Time Series Forecasting` `A/B Testing` `Causal Inference` `Ensemble Methods` `XGBoost` `LightGBM` `Neural Networks`
+## Skills
 
-### Credit Risk & Fraud Analytics
-`Credit Scoring` `PD/LGD/EAD Modeling` `Fraud Detection` `Anti-Money Laundering` `Behavioral Scoring` `Collection Scoring` `Portfolio Analytics` `Stress Testing`
-
-### Technical Stack
-`R (Advanced)` `Python (Advanced)` `SQL (Advanced)` `PySpark` `Julia` `C++` `TMB` `Databricks` `Git`
-
-### Statistical Methods
-`Bayesian Statistics` `GLM/GAM/GLMM` `Survival Analysis` `Multivariate Analysis` `Spatial Statistics` `Bootstrap` `MCMC` `Maximum Likelihood` `EM Algorithm`
-
-## Technology Stack
-
-<div align="center">
-
-### Programming & Analytics
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Machine Learning & AI
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3E9FD7?style=for-the-badge)
-![Tidymodels](https://img.shields.io/badge/Tidymodels-1A162D?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Big Data & Cloud
+![TMB](https://img.shields.io/badge/TMB-276DC3?style=for-the-badge)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-</div>
+`Credit Scoring` `PD/LGD/EAD` `Fraud & AML` `Bayesian Statistics` `GLM/GAM/GLMM` `MCMC` `Survival & Multivariate Analysis` `Causal Inference` `XGBoost/LightGBM`
 
 ## Academic Background
 
-- **Ph.D. in Statistics** (In Progress) - PPGMNE/UFPR
-  - Research: Statistical Inference and Bayesian Networks
-  - Advisor: Wagner Hugo Bonat (PhD)
-  
-- **M.Sc. in Statistics** - PPGMNE/UFPR
-  - Thesis: [Beta regression models for scaled data (Modelos de regressão beta para dados de escala)](https://hdl.handle.net/1884/86624)
+- **Ph.D. in Statistics** *(in progress, PPGMNE/UFPR, 2024–2027)* — *Extensão de Modelos MCGLM: Uma Abordagem via Modelos Gráficos Probabilísticos (MCGLM-Graph)* · advisor Wagner Hugo Bonat · pré-defesa concluída em 2026
+- **M.Sc. in Statistics** *(PPGMNE/UFPR, 2021–2023)* — [Beta regression models for scale data](https://hdl.handle.net/1884/86624)
+- **B.Sc. Statistics** *(UFPR, 2009–2013)* · **MBA Business Intelligence** *(Universidade Positivo, 2014–2015)*
 
-## Let's Connect!
+## Let's Connect
 
-<div align="center">
+Open to collaborations on statistical modeling, credit risk, graphical models, and R package development.
 
-**I'm open to collaborations on:** Statistical Modeling | Credit Risk | Machine Learning | R Package Development
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/evandeilton)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandeilton@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=tZWYDwcAAAAJ&hl=pt-BR)
-
-### Areas of Interest for Collaboration
-**Research:** Bayesian Networks | Causal Inference | Machine Learning for Finance  
-**Industry:** Credit Risk Models | Fraud Detection Models | Real-time Scoring  
-**Open Source:** R Packages | Statistical Libraries | ML Frameworks
-
-</div>
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5887-4084)
 
 <div align="center">
-  
+
 ### Fun Facts
 
 ```r
 personal_attributes <- list(
-  coffee_level = "Infinite ☕",
-  coding_hours = "24/7",
   favorite_distribution = "(gkw) Generalized Kumaraswamy Distribution",
   life_motto = "In God Trust",
   superpower = "Finding patterns in chaos",
-  weakness = "Can't resist a good dataset"
+  currently = "Turning residual covariance matrices into graphs"
 )
 ```
 
