@@ -2,7 +2,7 @@
 
 # José Evandeilton Lopes
 
-### Data Scientist @ Stix · PhD Candidate in Statistics (PPGMNE/UFPR) · Credit Risk & Fraud Analytics
+### Statistician | PhD Candidate in Statistics (PPGMNE/UFPR) | Credit Risk & Fraud Analytics | Data Scientist @ Stix
 
 [![Profile Views](https://komarev.com/ghpvc/?username=evandeilton&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/evandeilton)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandeilton/)
@@ -45,7 +45,8 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/evandeilton/OptimalBinningWoE"><img src="https://img.shields.io/badge/R-OptimalBinningWoE-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a><br/>
-      <sub>High-performance optimal binning & WoE for credit scoring</sub><br/><br/>
+      <sub>37 optimal binning algorithms & WoE for credit scoring</sub><br/><br/>
+      <a href="https://img.shields.io/cran/v/OptimalBinningWoE"><img src="https://img.shields.io/cran/v/OptimalBinningWoE?style=flat-square&color=276DC3" /></a>
       <a href="https://github.com/evandeilton/OptimalBinningWoE"><img src="https://img.shields.io/github/stars/evandeilton/OptimalBinningWoE?style=social" /></a>
     </td>
   </tr>
@@ -56,6 +57,8 @@
 
 ## Skills
 
+<div align="center">
+  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,6 +71,8 @@
 
 `Credit Scoring` `PD/LGD/EAD` `Fraud & AML` `Bayesian Statistics` `GLM/GAM/GLMM` `MCMC` `Survival & Multivariate Analysis` `Causal Inference` `XGBoost/LightGBM`
 
+</div>
+
 ## Academic Background
 
 - **Ph.D. in Statistics** *(in progress, PPGMNE/UFPR, 2024–2027)* — *Extensão de Modelos MCGLM: Uma Abordagem via Modelos Gráficos Probabilísticos (MCGLM-Graph)* · advisor Wagner Hugo Bonat · pré-defesa concluída em 2026
@@ -75,24 +80,25 @@
 - **B.Sc. Statistics** *(UFPR, 2009–2013)* · **MBA Business Intelligence** *(Universidade Positivo, 2014–2015)*
 
 ## Let's Connect
-
+<div align="center">
 Open to collaborations on statistical modeling, credit risk, graphical models, and R package development.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandeilton@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=tZWYDwcAAAAJ&hl=pt-BR)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5887-4084)
 
-<div align="center">
+</div>
 
-### Fun Facts
+## Fun Facts
+
+<div align="center">
 
 ```r
 personal_attributes <- list(
   favorite_distribution = "(gkw) Generalized Kumaraswamy Distribution",
   life_motto = "In God Trust",
   superpower = "Finding patterns in chaos",
-  currently = "Turning residual covariance matrices into graphs"
-)
+  currently = "Turning residual covariance matrices into graphs")
 ```
 
 </div>
