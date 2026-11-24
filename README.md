@@ -24,7 +24,7 @@ Author of **5 CRAN packages** and one peer-reviewed software paper (JOSS). 10+ y
 
 ## Research
 
-- **Ph.D. in Statistics** (PPGMNE/UFPR, 2024–2027): *MCGLM-Graph*, extending MCGLMs with GGM and DAG representations of residual dependence. Pre-defense completed in 2026.
+- **Ph.D. in Statistics** (PPGMNE/UFPR, 2024–2027): *MCGLM-Graph*, extending MCGLMs with GGM and DAG representations of residual dependence. [on going].
 - **M.Sc. in Statistics** (PPGMNE/UFPR, 2023): [Beta regression models for scale data](https://hdl.handle.net/1884/86624), released as `betaregscale`.
 - Lopes, J.E. & Bonat, W.H. (2026). *gkwreg: An R Package for Generalized Kumaraswamy Regression Models for Bounded Data.* JOSS 11(117), 8991. [doi:10.21105/joss.08991](https://doi.org/10.21105/joss.08991)
 
